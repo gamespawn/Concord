@@ -1,0 +1,19 @@
+{
+    "Menu":
+    {
+        "HorizontalAxis" : "KeyboardHorizontal",
+        "VerticalAxis" : "KeyboardVertical",
+        "Select" : 32,
+        "Cancel" : 27
+    },
+
+    "InGame":
+    {
+        "HorizontalAxis" : "KeyboardHorizontal",
+        "VerticalAxis" : "KeyboardVertical",
+		"Jump" : 32,
+        "Attack" : 323,
+        "Dodge" : 324,
+        "Menu" : 27
+    }
+}
